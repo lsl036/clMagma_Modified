@@ -1,0 +1,11 @@
+
+magma_sutil.o:
+0000000000000070 T magma_smake_hpd
+0000000000000000 T magma_smake_symmetric
+
+magma_cutil.o:
+0000000000000000 r .LC1
+0000000000000000 T magma_cmake_hermitian
+0000000000000090 T magma_cmake_hpd
+00000000000001d0 T magma_cmake_spd
+0000000000000150 T magma_cmake_symmetric
